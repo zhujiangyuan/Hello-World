@@ -12,6 +12,8 @@ g_gradlew_command = '\\gradlew.bat fAD cR bR'
 import sys
 import os
 
+#test
+
 # Get input path
 arg_num = len(sys.argv)
 if(0 == arg_num):
